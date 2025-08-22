@@ -1,0 +1,40 @@
+// page1
+12: 9
+15: 7
+18: 5
+21: 9 + 7 + 5 = 21
+// page2
+7: 7
+10: 2
+13: 4
+16: 8
+7 + 2 + 4 + 8 = 21
+// page3
+10: numberOfDogs = 8
+12: numberOfCats = 4
+14: numberOfTurtles = 3
+16: numberOfHampsters = 2
+18: totalNumberOfAnimals = 17
+20. totalNumberOfMammals = 14
+// page4
+totalNumbersOfAnimals = 20
+totalNumberOfMammals = 15
+//page5
+let numberOfDog = 86
+//page6
+200
+15
+35
+200 * 15
+750 + 35
+(200 * 15) - (750 + 35) = 2,215
+// page7
+let ticketsSold = 200
+let ticketPrice = 15
+let printingCost = 25
+let adevertisnbn = 35
+let totalTakings = ticketPrice * ticketsSold = 3000
+let jackpot = totalTakings / 2 = 1500
+let totalExpenses = printingCost + advertising = 28
+let profit = totalTakings - jackpot - totalExpenses = 1472
+let friendCut = profit - programmersCut
