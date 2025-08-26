@@ -1,0 +1,23 @@
+// page1
+let heightInMiles = 6887
+let personSay = "Wheres the food"
+Declare a favoriteShow constant
+// page2
+let englishGreeting = "Sup guys"
+let chineseGreeting = "你好"
+let spanishGreeting = "Hola"
+// page3
+print("Testing if this thing works)
+// page3
+// This might chnage over night
+let username = "Nate"
+// This part of the message will get deleted
+let likesYourPostMessage = "likes your post"
+// Declare a firstName constant
+let firstName = "Jimmy"
+// Declare a lastName constant
+let lastName = "James"
+// Combine the strings into a fullName constant
+let fullName = "JimmyJames"
+// Combine your full name with likesYourPostMessage
+let finishedMessage = username + "JimmyJames" + likesYourPostMessage
