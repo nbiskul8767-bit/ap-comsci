@@ -21,3 +21,15 @@ let lastName = "James"
 let fullName = "JimmyJames"
 // Combine your full name with likesYourPostMessage
 let finishedMessage = username + "JimmyJames" + likesYourPostMessage
+// page4
+let welcomeString = "Hello" \("Tim"), welcome to \(Burbington)
+"I like pie becaise it is good"
+"It is tasty"
+"I like pie because it is tasty"
+// page5
+let goalieName = "Ronaldo"
+let firstHalfSaves = 3
+let secondHalfSaves = 9
+let overtimeSaves = 8
+let goalieReportString = "At the game yesterday, \("Alisson") had \(3) saves in the first half, \(9) in the second half and \(8) saves in overtime, for a total of \(3 + 9 + 8)saves."
+"Today was a special day for Jimmy. As Jimmy saved 2000 dollars because he was going to buy a new gaming computor
