@@ -33,3 +33,32 @@ let secondHalfSaves = 9
 let overtimeSaves = 8
 let goalieReportString = "At the game yesterday, \("Alisson") had \(3) saves in the first half, \(9) in the second half and \(8) saves in overtime, for a total of \(3 + 9 + 8)saves."
 "Today was a special day for Jimmy. As Jimmy saved 2000 dollars because he was going to buy a new gaming computor
+// page6
+let fullName = firstname + " " + lastname
+let unicode = "Unicode characters"
+let newLine = "Making new lines"
+// page7
+let customerOrderFour = "Pizza"
+letCustomerOrderFive = "Chicken alfredo"
+letCustomerOdersix = "Friedc chicken"
+let serverResponseToTableTwo = "Let menmake sure I've got this right: chicken alfredo, fried chicken and pizza
+let tableTwoResponse = "Perfect thank you"
+// page8
+let schoolName = "Welton high"
+let refrain = "this school is so cool \(schoolName) will never die"
+let song = "\(schoolName) \n\(schoolName) \nYes, \(refrain)"
+// page9
+8000 - 3000 = 5000
+5000 / 150 = 33
+// page 10
+"Sup guys"
+print("Sup guys")
+7
+print(36 * 78) = "2808\n"
+let authorName = "Lebron James"
+print (authorName )
+let bookTitle = "Best in the world"
+print (bookTitle)
+authorName = "LeBron James"
+"authorName"
+"Did you know that \(bookTile) was written by \(authorname)?" = Bestbin the world and Lebron James
