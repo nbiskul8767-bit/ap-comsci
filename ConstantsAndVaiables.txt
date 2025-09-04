@@ -1,0 +1,108 @@
+// page1
+let dateOfBirth = “January 20th”
+var favoriteShirt = “Blue”
+favoriteShirt = “Red”
+currentLocation = “San Diego”
+ 
+// page2
+var score = 20
+score = 30
+score = 35
+score  = score + 5 = 40
+score + 5 = 45
+score  = 40
+score + 3 = 43
+score = 40
+score = score + 5 = 45
+score = score + 3 = 48
+
+score = 35
+score = score + score = 70
+
+// page3
+greeting += “Wasssuup, ”
+greeting += “”
+greeting +=“World” 
+= “Wasssuupp, World”
+
+// page4
+let name = “Johnny” 
+name = “John”
+
+=
+
+var name = “Johnny”
+name = “John”
+
+// page 5
+let name = “John” 
+
+=
+
+var name =“John”
+name = “John”
+
+// page6
+|/ Scores for each target
+var scoreForGreen = 25
+var scoreForRed = 30
+var scoreForGold = 20
+// Player scores
+var scoreForJimmy = 0
+var scoreForRob = 0
+// Game events here
+scoreForJimmy += scoreForRed = 30
+scoreForJimmy += scoreForGreen = 55
+scoreForJimmy += scoreForGold = 75
+scoreForRob += scoreForRed = 30
+scoreForRed += scoreForGreen = 55
+scoreForRob += scoreForGold = 50
+scoreForJimmy += scoreForRed = 130
+scoreForJimmy += scoreForGreen = 155
+scoreForJimmy += scoreForGold = 175
+scoreForRob += scoreForRed = 105
+scoreForRob += scoreForGreen = 130
+scoreForRob += scoreForGold = 150
+
+scoreForRob = 150
+scoreForJimmy = 175
+// page7
+let eggs = "Eggs"
+let milk = "Milk"
+let cheese = "Cheese"
+let bread = "Bread"
+let rice = "Rice"
+let chicken = "Chicken"
+let beef = "Beef"
+
+// page8
+var score = 501
+var
+scoreRound = 0
+var scoreForRed = -70
+var scoreForBlue = -50
+var scoreForYellow = -60
+var scoreForOrange = -400
+var scoreForJimmy = 501
+var
+scoreForReed = 501
+scoreForJimmy += scoreForBlue = 451
+scoreForJimmy += scoreForRed = 381
+
+scoreForReed += scoreForYellow =441
+scoreForReed += scoreForBlue = 391
+
+scoreForJimmy += scoreForRed = 311
+scoreForJimmy += scoreForYellow = 251
+
+scoreForReed += scoreForBlue = 341
+scoreForReed += scoreForYellow = 281
+
+scoreForJimmy += scoreForRed = 181
+scoreForJimmy += scoreForYellow = 121
+
+scoreForReed += scoreForBlue = 231
+scoreForReed += scoreForRed = 161
+
+scoreForJimmy = 121
+scoreForReed = 161
